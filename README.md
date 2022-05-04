@@ -1,4 +1,4 @@
-![Anvith00cover](https://user-images.githubusercontent.com/24383877/145344813-bfac57af-dc3a-4645-9d7f-3f5e466173bb.png)
+<!-- ![Anvith00cover](https://user-images.githubusercontent.com/24383877/145344813-bfac57af-dc3a-4645-9d7f-3f5e466173bb.png) -->
 
 
 - 👋 Hi, I’m @Anvith00 🙂
