@@ -12,6 +12,27 @@ echo "An Apple a day 🍎 keeps the non-mach binary at bay"
 - **cli_text_editor**.fasterThan(**gui_text_editor**) == true 🚀.
 - Currently learning a lot of stuff, interesting ones that is..
 - I’m willing to collaborate and contribute on stuff that I love 🙂.
+
+![Learnt ✅ →](https://img.shields.io/badge/Learnt_✅_→-blue)
+[![Git](https://img.shields.io/badge/Git-purple?logo=Git)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-white?logo=Linux&logoColor=black)](https://www.linux.org/)
+[![Bash](https://img.shields.io/badge/Bash-black?logo=GNU+Bash)](https://www.gnu.org/software/bash/)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-red?logo=Ruby+on+Rails)](https://rubyonrails.org/)
+[![React](https://img.shields.io/badge/React-blue?logo=React)](https://react.dev/)
+![HTML](https://img.shields.io/badge/HTML-grey?logo=HTML5)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=Javascript)
+![CSS](https://img.shields.io/badge/CSS-grey?logo=CSS3&logoColor=blue)
+[![Python](https://img.shields.io/badge/Python-green?logo=Python)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-white?logo=C%2B%2B&logoColor=blue)](https://isocpp.org/)
+
+![Learning 👨🏻‍🎓→](https://img.shields.io/badge/Learning_👨🏻‍🎓→-red)
+[![Rust](https://img.shields.io/badge/Rust-white?logo=Rust&logoColor=black)](https://www.rust-lang.org/)
+[![Swift](https://img.shields.io/badge/Swift-white?logo=Swift)
+](https://michaelcurrin.github.io/badge-generator/#/generic)
+[![Beginner - Leetcode](https://img.shields.io/badge/Beginner-Leetcode-blue?logo=Leetcode)](https://leetcode.com/)
+[![Beginner - HackerRank](https://img.shields.io/badge/Beginner-HackerRank-blue?logo=Hackerrank)](https://www.hackerrank.com/)
+
+[![Fedora Linux ♥️](https://img.shields.io/badge/Fedora_Linux_♥️-white?logo=Fedora)](https://getfedora.org/)
 <!---
 Anvith00/Anvith00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
