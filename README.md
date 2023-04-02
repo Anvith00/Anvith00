@@ -5,10 +5,20 @@
 echo "An Apple a day 🍎 keeps the non-mach binary at bay"
 ```
 
+<p align="center">
+  
+  <img src="https://i.redd.it/atm4dvi4mhz81.gif" width="500">
+  <img src="https://i.redd.it/3u48u4j4mhz81.gif" width="500">
+  <img src="https://i.redd.it/55xiyyi4mhz81.gif" width="400">
+  
+</p>
+
+
 - Love open-source software 😻.
 - Machine Learning, and Software development are my favourite fields of work 🧑‍💻.
 - Unix and Unix-like = ❤️ because POSIX.
 - Average tech enjoyer 💻 💙.
+- y2k millenium aesthetic fanatic. Virtual Self & Breakcore 🎵 ❤️
 - **cli_text_editor**.fasterThan(**gui_text_editor**) == true 🚀.
 - Currently learning a lot of stuff, interesting ones, that is..
 - I’m willing to collaborate and contribute on stuff that I love 🙂.
