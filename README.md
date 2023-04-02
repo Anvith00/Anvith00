@@ -7,10 +7,8 @@ echo "An Apple a day 🍎 keeps the non-mach binary at bay"
 
 <p align="center">
   
-  <img src="https://i.redd.it/atm4dvi4mhz81.gif" width="500">
-  <img src="https://i.redd.it/3u48u4j4mhz81.gif" width="500">
-  <img src="https://i.redd.it/55xiyyi4mhz81.gif" width="400">
-  
+  <img src="https://i.redd.it/atm4dvi4mhz81.gif" width="300">
+  <img src="https://i.redd.it/3u48u4j4mhz81.gif" width="300">  
 </p>
 
 
