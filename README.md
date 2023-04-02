@@ -10,7 +10,7 @@ echo "An Apple a day 🍎 keeps the non-mach binary at bay"
 - Unix and Unix-like = ❤️ because POSIX.
 - Average tech enjoyer 💻 💙.
 - **cli_text_editor**.fasterThan(**gui_text_editor**) == true 🚀.
-- Currently learning a lot of stuff, interesting ones that is..
+- Currently learning a lot of stuff, interesting ones, that is..
 - I’m willing to collaborate and contribute on stuff that I love 🙂.
 
 ![Learnt ✅ →](https://img.shields.io/badge/Learnt_✅_→-blue)
