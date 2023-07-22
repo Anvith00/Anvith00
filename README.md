@@ -40,7 +40,7 @@ echo "An Apple a day 🍎 keeps the non-mach binary at bay"
 [![Beginner - Leetcode](https://img.shields.io/badge/Beginner-Leetcode-blue?logo=Leetcode)](https://leetcode.com/)
 [![Beginner - HackerRank](https://img.shields.io/badge/Beginner-HackerRank-blue?logo=Hackerrank)](https://www.hackerrank.com/)
 
-[![Fedora Linux ♥️](https://img.shields.io/badge/Fedora_Linux_♥️-white?logo=Fedora)](https://getfedora.org/)
+[![MacOS ❤️](https://img.shields.io/badge/MacOS_❤️-black?logo=Apple&logoColor=white)](https://www.apple.com/macos)
 <!---
 Anvith00/Anvith00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
